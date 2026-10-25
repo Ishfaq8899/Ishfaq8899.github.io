@@ -24,3 +24,7 @@ Research interests
 Methods
 ------
 Microsimulation, continuous-time Markov chains, model calibration and validation, survival modeling, and R package development, using data sources such as SEER, SEER-Medicare, NLST, and PLCO.
+
+Outside of research
+------
+When I'm not building models, you'll usually find me playing cricket or pickleball, hiking, or exploring new places.
