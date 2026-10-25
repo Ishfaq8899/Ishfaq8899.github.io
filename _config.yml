@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ishfaq Ahmad, Ph.D."
+title                    : "Home page of Ishfaq Ahmad"
+bio                      : "Postdoc at Knight Cancer Institute, OHSU"
 title_separator          : "-"
 name                     : &name "Ishfaq Ahmad"
 description              : &description "Personal website of Ishfaq Ahmad, Postdoctoral Scholar in cancer screening and mathematical epidemiology modeling"
